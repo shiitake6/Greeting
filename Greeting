@@ -7,7 +7,5 @@ class Greeting {
             sum += arr[i];
         }
         System.out.println(sum);
-    }
-             
-    
+    }  
 }
